@@ -1,0 +1,11 @@
+git initial
+master master
+asd
+this is version 1 of my project
+i want to commit this
+changed by Akansha
+
+this is again changed
+this is changed now
+sdf sdf
+this is from master
